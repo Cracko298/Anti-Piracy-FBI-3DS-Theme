@@ -1,5 +1,5 @@
 # Anti-Piracy-FBI-3DS-Theme
-The 3ds homebrew scene uses an app called FBI. Which can be used for editing the NAND, and Installing Homebrew in the format of (.cia). Which is used for piracy in many cases. So this theme is too discourage the act of piracy online on every Nintendo-Based System.
+The 3ds homebrew scene uses an app called FBI. Which can be used for editing the NAND, and Installing Homebrew in the format of (.cia). Which is used for piracy in many cases. So this theme is too discourage the act of piracy online on every Nintendo-Based System (Mainly on the 3ds though).
 
 To install the theme extract it using an Extraction Tool like WinRAR. (Windows has a built in one for .zip files).
 ![Capture](https://user-images.githubusercontent.com/78656905/129485405-63bc8694-2b7f-46f9-9b6b-47f5732c2e1f.PNG)
