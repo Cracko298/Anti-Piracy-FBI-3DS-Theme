@@ -20,4 +20,5 @@ Every time you start up FBI you should the new theme activated.
 ![2027-03-09_08-19-45 012_bot](https://user-images.githubusercontent.com/78656905/129485733-be66c950-96f1-4c80-901c-1d48ef99a70b.jpg)
 
 This theme is based on Cooolgamer's FBI Dark Theme.
+
 Github Repo Link: https://github.com/cooolgamer/FBI-themes
